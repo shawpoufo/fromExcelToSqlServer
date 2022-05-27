@@ -6,14 +6,14 @@
 # Créer une connexion vers Excel
 
 
-![select excel.PNG](./screenshots/select excel.PNG)
+![select excel.PNG](./img/select excel.PNG)
 
 
 
 # Créer un Excel Source
 
 
-![select excel feuill.PNG](./screenshots/select excel feuill.PNG)
+![select excel feuill.PNG](/img/select excel feuill.PNG)
 
 # Changer le nom des Colonnes
 
