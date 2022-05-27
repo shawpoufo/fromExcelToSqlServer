@@ -30,9 +30,9 @@
 
 # Execution 
 
-![Execution](./img/exection.PNG)
+![Execution](./img/execution.PNG)
 
-![Execution2s](./img/exection2.PNG)
+![Execution2s](./img/execution2.PNG)
 
 
 # Résulta dans SQLServer
