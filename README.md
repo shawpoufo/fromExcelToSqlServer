@@ -1,7 +1,7 @@
 # Créer une connexion vers la base de données SQL Server
 
 
-![select database.PNG](./screenshots/select database.PNG)
+![select database.PNG](shawpoufo.github.com/fromExcelToSqlServer/screenshots/select database.PNG)
 
 # Créer une connexion vers Excel
 
